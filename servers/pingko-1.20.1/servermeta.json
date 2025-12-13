@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/pingko/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "pingko (Minecraft 1.20.1)",
+    "description": "pingko Running Minecraft 1.20.1 (Forge v47.3.10)",
+    "icon": "https://github.com/minsuho/pingko/raw/main/repo/ico.pngn",
+    "address": "175.112.128.114",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.10"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt",
+        "config/*"
+      ]
+    }
+  ]
+}

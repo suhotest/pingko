@@ -1,0 +1,2 @@
+lang:ko_kr
+soundCategory_music:0.0
