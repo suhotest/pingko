@@ -12,7 +12,7 @@
       "name": "pingko (Minecraft 1.20.1)",
       "description": "pingko Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://github.com/minsuho/pingko/raw/main/repo/ico.pngn",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "address": "175.112.128.114",
       "minecraftVersion": "1.20.1",
       "discord": {
