@@ -853,6 +853,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "net.darkhax:enchdesc:17.1.19@jar",
           "name": "EnchantmentDescriptions",
           "type": "ForgeMod",
@@ -870,6 +880,16 @@
             "size": 72990,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/entityculling-forge-1.7.1-mc1.20.1.jar",
             "MD5": "ad599f97f17270a1c35e330b3d66bacf"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.9.4@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1568324,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/entityculling-forge-1.9.4-mc1.20.1.jar",
+            "MD5": "fdc791c2247535f6602650a3cc6f8f36"
           }
         },
         {
@@ -1203,6 +1223,16 @@
           }
         },
         {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
           "id": "net.darkhax:openloader:19.0.4@jar",
           "name": "OpenLoader",
           "type": "ForgeMod",
@@ -1517,9 +1547,31 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 35,
+            "size": 153,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "VisibleOres2.10.zip",
+          "name": "VisibleOres2.10.zip",
+          "type": "File",
+          "artifact": {
+            "size": 913816,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/files/resourcepacks/VisibleOres2.10.zip",
+            "MD5": "12c83de113839e0251c3aa68034470dc",
+            "path": "resourcepacks/VisibleOres2.10.zip"
+          }
+        },
+        {
+          "id": "ComplementaryShaders_v4.7.1.zip",
+          "name": "ComplementaryShaders_v4.7.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3456096,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/files/shaderpacks/ComplementaryShaders_v4.7.1.zip",
+            "MD5": "8715784436e158bd0fc5321cca73eb92",
+            "path": "shaderpacks/ComplementaryShaders_v4.7.1.zip"
           }
         }
       ]

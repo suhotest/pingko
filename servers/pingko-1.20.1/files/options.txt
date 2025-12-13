@@ -1,2 +1,3 @@
 lang:ko_kr
 soundCategory_music:0.0
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","hordes-config","file/VisibleOres2.10.zip"]
