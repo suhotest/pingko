@@ -963,6 +963,16 @@
           }
         },
         {
+          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.4@jar",
+          "name": "GT-DonationAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7311599,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.4.jar",
+            "MD5": "1983a0276d9f461a8bf9b1c6b7126fa9"
+          }
+        },
+        {
           "id": "com.mactso:harderspawners:46.25.3@jar",
           "name": "Harder Spawners Mod",
           "type": "ForgeMod",
