@@ -973,6 +973,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95018,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
+            "MD5": "11ad6c455f71bbedecbe1e26659d1e45"
+          }
+        },
+        {
           "id": "com.mactso:harderspawners:46.25.3@jar",
           "name": "Harder Spawners Mod",
           "type": "ForgeMod",
