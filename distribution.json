@@ -1197,9 +1197,9 @@
           "name": "NANGMAN DIVE KIT",
           "type": "ForgeMod",
           "artifact": {
-            "size": 72912,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/nangman_dive_kit-1.0.2-forge-1.20.1.jar",
-            "MD5": "e24c607b7a18d1783df470031003038c"
+            "size": 74598,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/nangman_dive_kit-1.0.1-forge-1.20.1.jar",
+            "MD5": "31c0fe30193a8e32d6438ee99b30ef8a"
           }
         },
         {
