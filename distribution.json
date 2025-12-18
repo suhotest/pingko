@@ -633,16 +633,6 @@
           }
         },
         {
-          "id": "wallywhip.bettertags:bettertags:1.20.1-1.1@jar",
-          "name": "Better Tags",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 138899,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/BetterTags-1.20.1-1.1.jar.disabled",
-            "MD5": "4aeb00a3164d4172ec5368c0e19a0aa8"
-          }
-        },
-        {
           "id": "fuzs.bettertridents:bettertridents:8.0.1@jar",
           "name": "Better Tridents",
           "type": "ForgeMod",
