@@ -903,6 +903,16 @@
           }
         },
         {
+          "id": "net.olafski:fastleafdecay:31@jar",
+          "name": "Fast Leaf Decay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9833,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/FastLeafDecay-31.jar",
+            "MD5": "f9962d78568b9f71b70916238253d33c"
+          }
+        },
+        {
           "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
           "name": "Fastload-Reforged",
           "type": "ForgeMod",
