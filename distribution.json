@@ -623,16 +623,6 @@
           }
         },
         {
-          "id": "betteradvancements:betteradvancements:0.4.2.10@jar",
-          "name": "Better Advancements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 98123,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/BetterAdvancements-Forge-1.20.1-0.4.2.10.jar",
-            "MD5": "8262a6a70e233f49b643b99726a689f5"
-          }
-        },
-        {
           "id": "fr.anto:bettercopper:1.2@jar",
           "name": "Better Copper",
           "type": "ForgeMod",
