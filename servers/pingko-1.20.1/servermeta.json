@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/11/Documents/GitHub/pingko/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "4.0.0",
+    "version": "5.0.0",
     "name": "pingko (Minecraft 1.20.1)",
     "description": "pingko Running Minecraft 1.20.1 (Forge v47.3.10)",
     "icon": "https://github.com/minsuho/pingko/raw/main/repo/ico.pngn",

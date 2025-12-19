@@ -12,7 +12,7 @@
       "name": "pingko (Minecraft 1.20.1)",
       "description": "pingko Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://github.com/minsuho/pingko/raw/main/repo/ico.pngn",
-      "version": "4.0.0",
+      "version": "5.0.0",
       "address": "175.112.128.114",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -930,16 +930,6 @@
             "size": 1099129,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/fish_of_thieves-mc1.20.1-v3.0.9-forge.jar",
             "MD5": "e8e824885f4de53287309e84ae2d39e2"
-          }
-        },
-        {
-          "id": "org.examdd:gamble:1.0@jar",
-          "name": "Gamble",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 48172,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/gamble-1.0.jar",
-            "MD5": "96e6abc9f514fa2513a89a6ea74feb8b"
           }
         },
         {
