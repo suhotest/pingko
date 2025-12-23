@@ -943,13 +943,13 @@
           }
         },
         {
-          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.4@jar",
+          "id": "com.gitter.gtdonationapi.forge.v1_20_1.client:gtdonationapi:2.0.5@jar",
           "name": "GT-DonationAPI",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7311599,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.4.jar",
-            "MD5": "1983a0276d9f461a8bf9b1c6b7126fa9"
+            "size": 7309882,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.5-NoAutoLogin.jar",
+            "MD5": "9f6567f4602c88334660006e724b38c0"
           }
         },
         {
