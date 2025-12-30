@@ -1073,16 +1073,6 @@
           }
         },
         {
-          "id": "com.github.l_ender:cataclysm:2.18@jar",
-          "name": "Cataclysm Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 71567064,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/L_Enders_Cataclysm-2.18%20-%201.20.1.jar",
-            "MD5": "37a19a969da1b20ef34f2b5e681e418e"
-          }
-        },
-        {
           "id": "letsforge_pirates:lfpirates:3.10.1@jar",
           "name": "Let'sForgePirates",
           "type": "ForgeMod",
