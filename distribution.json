@@ -823,16 +823,6 @@
           }
         },
         {
-          "id": "samebutdifferent.ecologics:ecologics:2.2.0@jar",
-          "name": "Ecologics",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1829363,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko-1.20.1/forgemods/required/ecologics-forge-1.20.1-2.2.0.jar",
-            "MD5": "f68cce5bcbf61751e11bdf38c8366eec"
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
