@@ -17,5 +17,14 @@
   "forge": {
     "version": "47.3.10"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "options.txt",
+        "config/*",
+        "kubejs/*"
+      ]
+    }
+  ]
 }

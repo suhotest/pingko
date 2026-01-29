@@ -1273,13 +1273,430 @@
           }
         },
         {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 1486,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/desert_mining/lang/en_us.json",
+            "MD5": "e12111b8a957608357b5dff4ac48264b",
+            "path": "kubejs/assets/desert_mining/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1602,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/desert_mining/lang/ko_kr.json",
+            "MD5": "10546b4919b67d0407f5b71c0b76beb7",
+            "path": "kubejs/assets/desert_mining/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 5180,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/dungeons_plus/lang/en_us.json",
+            "MD5": "56e91b77f321bf06e494cf5309c3929e",
+            "path": "kubejs/assets/dungeons_plus/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/dungeons_plus/lang/ko_kr.json",
+            "MD5": "9b12e9596a393d2fe804a69e09efa07d",
+            "path": "kubejs/assets/dungeons_plus/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 35694,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/ftbquests/lang/en_us.json",
+            "MD5": "63beb735519c92ebaa4d7ee80c30ec9a",
+            "path": "kubejs/assets/ftbquests/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 35707,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/ftbquests/lang/ko_kr.json",
+            "MD5": "15348c33833506f605faab250bb2fa67",
+            "path": "kubejs/assets/ftbquests/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 3795,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/lang/en_us.json",
+            "MD5": "b1f914f092ec0e911a9e60076bc8d805",
+            "path": "kubejs/assets/kubejs/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 4317,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/lang/ko_kr.json",
+            "MD5": "cc3bcff95c06706f7906f1e3c85eec16",
+            "path": "kubejs/assets/kubejs/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "example_block.png",
+          "name": "example_block.png",
+          "type": "File",
+          "artifact": {
+            "size": 247,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/textures/block/example_block.png",
+            "MD5": "4f2cf24a9f5a4c9ded2bc7c9a792355c",
+            "path": "kubejs/assets/kubejs/textures/block/example_block.png"
+          }
+        },
+        {
+          "id": "board.png",
+          "name": "board.png",
+          "type": "File",
+          "artifact": {
+            "size": 339,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/textures/item/board.png",
+            "MD5": "3573b09ad058de48f3f248f185653ac4",
+            "path": "kubejs/assets/kubejs/textures/item/board.png"
+          }
+        },
+        {
+          "id": "cactus_prickle.png",
+          "name": "cactus_prickle.png",
+          "type": "File",
+          "artifact": {
+            "size": 195,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/textures/item/cactus_prickle.png",
+            "MD5": "b784633d887e4372c46cfafa7b0610a7",
+            "path": "kubejs/assets/kubejs/textures/item/cactus_prickle.png"
+          }
+        },
+        {
+          "id": "nailedboard.png",
+          "name": "nailedboard.png",
+          "type": "File",
+          "artifact": {
+            "size": 220,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/kubejs/textures/item/nailedboard.png",
+            "MD5": "fdcc77da263c3150d0dde6232728820d",
+            "path": "kubejs/assets/kubejs/textures/item/nailedboard.png"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 16526,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/legendary_monsters/lang/en_us.json",
+            "MD5": "d879e32edbfd78859da0ccc85729f8ba",
+            "path": "kubejs/assets/legendary_monsters/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 16597,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/legendary_monsters/lang/ko_kr.json",
+            "MD5": "8623bf14f26a0cead080b6a2a2b19dd5",
+            "path": "kubejs/assets/legendary_monsters/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 787,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/lang/en_us.json",
+            "MD5": "942ff7311f1ca459161bc8d348f15666",
+            "path": "kubejs/assets/nangmandesert/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 920,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/lang/ko_kr.json",
+            "MD5": "ffcbb452ae89b4ea1b867312206f8381",
+            "path": "kubejs/assets/nangmandesert/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "enjoy.json",
+          "name": "enjoy.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/enjoy.json",
+            "MD5": "566080a6a7f5ac9d4a7954c5e74d72f2",
+            "path": "kubejs/assets/nangmandesert/tips/enjoy.json"
+          }
+        },
+        {
+          "id": "hot.json",
+          "name": "hot.json",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/hot.json",
+            "MD5": "e62e40854e6df18649f9dcd1e5cb4d44",
+            "path": "kubejs/assets/nangmandesert/tips/hot.json"
+          }
+        },
+        {
+          "id": "mining.json",
+          "name": "mining.json",
+          "type": "File",
+          "artifact": {
+            "size": 48,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/mining.json",
+            "MD5": "4a2bcdd779f2123758e719976d90b31c",
+            "path": "kubejs/assets/nangmandesert/tips/mining.json"
+          }
+        },
+        {
+          "id": "oasis.json",
+          "name": "oasis.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/oasis.json",
+            "MD5": "5fa4be61db126331384c07c58b2bdd4b",
+            "path": "kubejs/assets/nangmandesert/tips/oasis.json"
+          }
+        },
+        {
+          "id": "puzzle.json",
+          "name": "puzzle.json",
+          "type": "File",
+          "artifact": {
+            "size": 48,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/puzzle.json",
+            "MD5": "33ed0966c062841634799b1c35b7aba3",
+            "path": "kubejs/assets/nangmandesert/tips/puzzle.json"
+          }
+        },
+        {
+          "id": "pyramid.json",
+          "name": "pyramid.json",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/pyramid.json",
+            "MD5": "c280826eb75b5543b293d33464a92748",
+            "path": "kubejs/assets/nangmandesert/tips/pyramid.json"
+          }
+        },
+        {
+          "id": "structures.json",
+          "name": "structures.json",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/nangmandesert/tips/structures.json",
+            "MD5": "30e1f3b0e5e1beb5348087b9dad2c52a",
+            "path": "kubejs/assets/nangmandesert/tips/structures.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 4376,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/pantheonsent/lang/en_us.json",
+            "MD5": "d7b8ad0d6de985b7917ac263192d8a12",
+            "path": "kubejs/assets/pantheonsent/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 4529,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/pantheonsent/lang/ko_kr.json",
+            "MD5": "5a93ac777c54869834ffb2bf51b02b8c",
+            "path": "kubejs/assets/pantheonsent/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 53132,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/piglet_structures/lang/en_us.json",
+            "MD5": "eb134c550a47b51fc9ef72772f3df864",
+            "path": "kubejs/assets/piglet_structures/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 53222,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/piglet_structures/lang/ko_kr.json",
+            "MD5": "4425699fa898f82e62a9b3396137a61f",
+            "path": "kubejs/assets/piglet_structures/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 6765,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/swordinthestone/lang/en_us.json",
+            "MD5": "e6e048ec5b522376bda89a1486ed3c3a",
+            "path": "kubejs/assets/swordinthestone/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 7132,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/swordinthestone/lang/ko_kr.json",
+            "MD5": "086630cf6656ee9c900c74c3971233c9",
+            "path": "kubejs/assets/swordinthestone/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 9690,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/the_pillager_legion/lang/en_us.json",
+            "MD5": "2598fa90dedb6b066f2f4796a7860d51",
+            "path": "kubejs/assets/the_pillager_legion/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9798,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/assets/the_pillager_legion/lang/ko_kr.json",
+            "MD5": "f07786ed779187d5ca4f485c8cefc8e6",
+            "path": "kubejs/assets/the_pillager_legion/lang/ko_kr.json"
+          }
+        },
+        {
+          "id": "client.properties",
+          "name": "client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 375,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/config/client.properties",
+            "MD5": "60d54cd23c9feafdbb22966ac414ac3e",
+            "path": "kubejs/config/client.properties"
+          }
+        },
+        {
+          "id": "common.properties",
+          "name": "common.properties",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/config/common.properties",
+            "MD5": "a07ac1130160b1bc2a7f45c061e621b3",
+            "path": "kubejs/config/common.properties"
+          }
+        },
+        {
+          "id": "loot.js",
+          "name": "loot.js",
+          "type": "File",
+          "artifact": {
+            "size": 7357,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/server_scripts/loot.js",
+            "MD5": "b5888a2f070807011ddf58aee6c130dc",
+            "path": "kubejs/server_scripts/loot.js"
+          }
+        },
+        {
+          "id": "recipes.js",
+          "name": "recipes.js",
+          "type": "File",
+          "artifact": {
+            "size": 1051,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/server_scripts/recipes.js",
+            "MD5": "cecf9f69da28ea60c9c6303df32d358a",
+            "path": "kubejs/server_scripts/recipes.js"
+          }
+        },
+        {
+          "id": "startkit.js",
+          "name": "startkit.js",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/server_scripts/startkit.js",
+            "MD5": "5d8d933a539e47ffc20a30871261d523",
+            "path": "kubejs/server_scripts/startkit.js"
+          }
+        },
+        {
+          "id": "items.js",
+          "name": "items.js",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/startup_scripts/items.js",
+            "MD5": "937e530ae716300ca01d52f9c0754cb2",
+            "path": "kubejs/startup_scripts/items.js"
+          }
+        },
+        {
+          "id": "modify.js",
+          "name": "modify.js",
+          "type": "File",
+          "artifact": {
+            "size": 141,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/kubejs/startup_scripts/modify.js",
+            "MD5": "a12b21c214373816148e0228a3e202dd",
+            "path": "kubejs/startup_scripts/modify.js"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 153,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/files/options.txt",
-            "MD5": "f2e77a8544ba0e0dc55be0e1627d7631",
             "path": "options.txt"
           }
         },
