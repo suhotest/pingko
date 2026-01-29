@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.ctov:ctov:3.4.9b@jar",
+          "name": "ChoiceTheorem's Overhauled Village",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5725193,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/[Forge]CTOV-3.4.9b.jar",
+            "MD5": "8cc4c46fbbe020dc66d0127766a5e4b2"
+          }
+        },
+        {
           "id": "com.autovw:advancednetherite:2.0.3@jar",
           "name": "Advanced Netherite",
           "type": "ForgeMod",
@@ -480,6 +490,16 @@
             "size": 580602,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "atistructures:ati_structures:1.1.0@jar",
+          "name": "Ati_structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1871997,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/ati_structures(1.20)_v1.1.0_FORGE.jar",
+            "MD5": "6ce3d25a7fbbc8af6714b6a5a9727e91"
           }
         },
         {
@@ -1073,6 +1093,16 @@
           }
         },
         {
+          "id": "net.mcreator.pigletstructures:piglet_structures:1.445@jar",
+          "name": "Piglet Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11965373,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.445).jar",
+            "MD5": "44ff0ac50adfe389f234333edc70c12d"
+          }
+        },
+        {
           "id": "net.creeperhost:polylib:2000.0.3-build.143@jar",
           "name": "PolyLib",
           "type": "ForgeMod",
@@ -1180,6 +1210,16 @@
             "size": 206584,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "cbece61946d4e059e90806c19dd66082"
+          }
+        },
+        {
+          "id": "com.lschroma.thepillagerlegion:the_pillager_legion_:1.7.1@jar",
+          "name": "The Pillager Legion ",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7174792,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/the_pillager_legion_-1.7.1-forge-1.20.1.jar",
+            "MD5": "c688a252d37db450625073e317b4e612"
           }
         },
         {
