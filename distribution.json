@@ -433,16 +433,6 @@
           ]
         },
         {
-          "id": "net.ctov:ctov:3.4.9b@jar",
-          "name": "ChoiceTheorem's Overhauled Village",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5725193,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/[Forge]CTOV-3.4.9b.jar",
-            "MD5": "8cc4c46fbbe020dc66d0127766a5e4b2"
-          }
-        },
-        {
           "id": "com.autovw:advancednetherite:2.0.3@jar",
           "name": "Advanced Netherite",
           "type": "ForgeMod",
@@ -760,6 +750,16 @@
             "size": 5656,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/finitewater-1.20.1-0.1.2.jar",
             "MD5": "fece501e944f55804a6e03f2594098ac"
+          }
+        },
+        {
+          "id": "net.ctov:ctov:3.4.9b@jar",
+          "name": "ChoiceTheorem's Overhauled Village",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5725193,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/Forge-CTOV-3.4.9b.jar",
+            "MD5": "8cc4c46fbbe020dc66d0127766a5e4b2"
           }
         },
         {
