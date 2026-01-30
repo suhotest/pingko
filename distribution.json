@@ -1293,6 +1293,16 @@
           }
         },
         {
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.11@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4892131,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.11.jar",
+            "MD5": "b3192730c7e28ceeeafc0521c79e7eca"
+          }
+        },
+        {
           "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-24@jar",
           "name": "Zeta",
           "type": "ForgeMod",
