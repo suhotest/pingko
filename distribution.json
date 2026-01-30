@@ -1093,16 +1093,6 @@
           }
         },
         {
-          "id": "net.mcreator.pigletstructures:piglet_structures:1.445@jar",
-          "name": "Piglet Structures",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11965373,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.445).jar",
-            "MD5": "44ff0ac50adfe389f234333edc70c12d"
-          }
-        },
-        {
           "id": "net.creeperhost:polylib:2000.0.3-build.143@jar",
           "name": "PolyLib",
           "type": "ForgeMod",
