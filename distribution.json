@@ -1293,13 +1293,13 @@
           }
         },
         {
-          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.11@jar",
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.6@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4892131,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.11.jar",
-            "MD5": "b3192730c7e28ceeeafc0521c79e7eca"
+            "size": 4889296,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.6.jar",
+            "MD5": "11832e7cf51d8b058ddde5811188835c"
           }
         },
         {
