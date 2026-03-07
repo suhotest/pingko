@@ -513,6 +513,16 @@
           }
         },
         {
+          "id": "me.treyruffy:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468517,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "MD5": "7411ae023390cf6b148f05a6b685279f"
+          }
+        },
+        {
           "id": "portb.biggerstacks:biggerstacks:1.20.1-1.0.5@jar",
           "name": "Bigger Stacks",
           "type": "ForgeMod",
@@ -540,6 +550,16 @@
             "size": 3185275,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/citadel-2.6.3-1.20.1.jar",
             "MD5": "da80c09b998d829b6d580e5be76dcc7b"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
         {
@@ -770,6 +790,16 @@
             "size": 625185,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 316542,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
           }
         },
         {
