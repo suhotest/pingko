@@ -983,16 +983,6 @@
           }
         },
         {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.5.1@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 206984,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-            "MD5": "6e3efd49fceebe9026b8f831518e0048"
-          }
-        },
-        {
           "id": "me.lucko:spark:1.10.53@jar",
           "name": "Spark",
           "type": "ForgeMod",
