@@ -13,7 +13,7 @@
       "description": "pingko3 Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": null,
       "version": "1.0.0",
-      "address": "1.251.106.137",
+      "address": "110.8.41.136",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -940,16 +940,6 @@
             "size": 346619,
             "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/SnowRealMagic-1.20.1-Forge-10.7.0.jar",
             "MD5": "d1736ff9c822c4fb02616c17de03e350"
-          }
-        },
-        {
-          "id": "generated.forgemod:snowundertrees:2.5.4+1.20.1@jar",
-          "name": "SnowUnderTrees",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2332826,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/SnowUnderTrees-2.5.4+1.20.1.jar",
-            "MD5": "456cf2766ed8d86195d3f52baef6994d"
           }
         },
         {
