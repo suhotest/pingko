@@ -1003,6 +1003,16 @@
           }
         },
         {
+          "id": "net.darkhax:thirstybottles:7.0.2@jar",
+          "name": "ThirstyBottles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8773,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/ThirstyBottles-Forge-1.20.1-7.0.2.jar",
+            "MD5": "5910348fc135b199336aacb9e8b88029"
+          }
+        },
+        {
           "id": "de.cristelknight999:t_and_t:1.10.2@jar",
           "name": "Towns and Towers",
           "type": "ForgeMod",
