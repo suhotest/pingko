@@ -933,16 +933,6 @@
           }
         },
         {
-          "id": "snownee.snow:snowrealmagic:10.7.0@jar",
-          "name": "Snow! Real Magic!",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 346619,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/SnowRealMagic-1.20.1-Forge-10.7.0.jar",
-            "MD5": "d1736ff9c822c4fb02616c17de03e350"
-          }
-        },
-        {
           "id": "io.github.marcus8448:snowy:2.2.0@jar",
           "name": "Snowy",
           "type": "ForgeMod",
