@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
-          "name": "AI-Improvements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29553,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
-            "MD5": "9a6776ce2deab597d198e8755daa56ff"
-          }
-        },
-        {
           "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
