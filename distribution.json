@@ -8,8 +8,8 @@
   },
   "servers": [
     {
-      "id": "pingko3-1.20.1",
-      "name": "pingko3 (Minecraft 1.20.1)",
+      "id": "pingko4-1.20.1",
+      "name": "pingko4 (Minecraft 1.20.1)",
       "description": "pingko3 Running Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": null,
       "version": "1.0.0",
@@ -438,208 +438,178 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 452970,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/advancednetherite-forge-2.0.3-1.20.1.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/advancednetherite-forge-2.0.3-1.20.1.jar",
             "MD5": "4eb31c9b42ffb95111a0bbc63946eeea"
           }
         },
         {
-          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "id": "com.ncpbails:alexsdelight:1.5@jar",
+          "name": "Alex's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55398,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/alexsdelight-1.5.jar",
+            "MD5": "b969e136e1f9a70c42dd102ed8359b40"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.22.8@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 26350793,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
-            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+            "size": 26055355,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/alexsmobs-1.22.8.jar",
+            "MD5": "0ad246393c7f9849df1e3e0af7f28872"
           }
         },
         {
-          "id": "net.mehvahdjukaar:amendments:1.20-2.2.5@jar",
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.8@jar",
           "name": "Amendments",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1301022,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/amendments-1.20-2.2.5.jar",
-            "MD5": "3e821a83a3a12bc9ca0fecb73a980dba"
+            "size": 984051,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/amendments-1.20-1.2.8.jar",
+            "MD5": "c98e1c773a107255b48b90b6107f41b1"
           }
         },
         {
-          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.4@jar",
-          "name": "Another Furniture",
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2463633,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.4.jar",
-            "MD5": "cc1fc7aaac4322d79446e3b5243cfe70"
+            "size": 580602,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
         {
-          "id": "com.jtorleonstudios:awesomedungeon:3.2.0@jar",
-          "name": "Awesome dungeon",
+          "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.2.7-beta@jar",
+          "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 414203,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/awesomedungeon-forge-1.20.1-3.2.0.jar",
-            "MD5": "f2a95991bd717b642be42afed7c745c2"
+            "size": 5904485,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.7-beta.jar",
+            "MD5": "24414e0c8a6cfef7bfa3ac7ab653cc14"
           }
         },
         {
-          "id": "net.darkhax:badmobs:19.0.4@jar",
-          "name": "BadMobs",
+          "id": "net.blay09.mods:balm:7.2.2@jar",
+          "name": "Balm",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10425,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/BadMobs-1.20.1-19.0.4.jar",
-            "MD5": "c82edfea81516b7f8c9607ad5b2f75d6"
+            "size": 343714,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/balm-forge-1.20.1-7.2.2.jar",
+            "MD5": "90f95b82b672106e0bb96e95cdc776e5"
           }
         },
         {
-          "id": "generated.forgemod:mr_better_snowybiome:1-v2.5.1@jar",
-          "name": "Snowy Biomes: Enhanced",
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4342893,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/better-snowy-biome-v2.5.1.jar",
-            "MD5": "a234e586643bcc66c347b7a37357d011"
+            "size": 21800460,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
           }
         },
         {
-          "id": "me.treyruffy:betterf3:7.0.2@jar",
-          "name": "BetterF3",
+          "id": "com.teamabnormals.blueprint.core:blueprint:7.1.0@jar",
+          "name": "Blueprint",
           "type": "ForgeMod",
           "artifact": {
-            "size": 468517,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
-            "MD5": "7411ae023390cf6b148f05a6b685279f"
+            "size": 1141553,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/blueprint-1.20.1-7.1.0.jar",
+            "MD5": "83f35ee21c8d632edde3f1cf650329a7"
           }
         },
         {
-          "id": "portb.biggerstacks:biggerstacks:1.20.1-1.0.5@jar",
-          "name": "Bigger Stacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 706369,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/biggerstacks-1.20.1-1.0.5-all.jar",
-            "MD5": "e05506d88388aa9ec589c839049f3cf1"
-          }
-        },
-        {
-          "id": "net.darkhax:bookshelf:20.2.13@jar",
+          "id": "net.darkhax:bookshelf:20.1.9@jar",
           "name": "Bookshelf",
           "type": "ForgeMod",
           "artifact": {
-            "size": 343962,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
-            "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
+            "size": 337312,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.1.9.jar",
+            "MD5": "a50d04efd505e42ed6f05cd5bd382061"
           }
         },
         {
-          "id": "com.github.alexthe666:citadel:2.6.3@jar",
+          "id": "top.theillusivec4:caelus:3.1.0+1.20@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38169,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/caelus-forge-3.1.0+1.20.jar",
+            "MD5": "34529f4aa9003214c31368bfb51ae1ac"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:charmofundying:6.5.0+1.20.1@jar",
+          "name": "Charm of Undying",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169487,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/charmofundying-forge-6.5.0+1.20.1.jar",
+            "MD5": "d083cc2318c6db88417fc8bf5ee7a18c"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.5.4@jar",
           "name": "Citadel",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3185275,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/citadel-2.6.3-1.20.1.jar",
-            "MD5": "da80c09b998d829b6d580e5be76dcc7b"
+            "size": 3181461,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/citadel-2.5.4-1.20.1.jar",
+            "MD5": "969652401ee0ad6d803b4dd588378c5a"
           }
         },
         {
-          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
-          "name": "Cloth Config v10 API",
+          "id": "net.mcreator.clutteredmod:luphieclutteredmod:2.1@jar",
+          "name": "Cluttered",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1181413,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
-            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+            "size": 6002846,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
+            "MD5": "359422bfdb492eada7067f41db746cff"
           }
         },
         {
-          "id": "com.blamejared:clumps:12.0.0.4@jar",
-          "name": "Clumps",
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
           "type": "ForgeMod",
           "artifact": {
-            "size": 20299,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
-            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+            "size": 88752,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
           }
         },
         {
-          "id": "com.momosoftworks.coldsweat:cold_sweat:2.3.5@jar",
-          "name": "Cold Sweat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8469750,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/ColdSweat-2.3.5.jar",
-            "MD5": "a814190bb6b3ff58ba0bd73ee5671450"
-          }
-        },
-        {
-          "id": "com.connectivity:connectivity:1.20.1-7.1@jar",
-          "name": "Connectivity Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 112550,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
-            "MD5": "a4e4e9823e1df967bee1d62e6a505e8f"
-          }
-        },
-        {
-          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
-          "name": "CoroUtil",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 64187,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
-            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
-          }
-        },
-        {
-          "id": "team.creative:creativecore:2.12.35@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1143788,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
-            "MD5": "a58f958ab8b789af3c6b3a9d93ca415d"
-          }
-        },
-        {
-          "id": "net.cristellib:cristellib:1.1.6@jar",
-          "name": "Cristel Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 431318,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
-            "MD5": "b52e8b225a34abab9300049c85f6855a"
-          }
-        },
-        {
-          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
-          "name": "Cupboard utilities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25983,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
-            "MD5": "3620912474f47bf58d1fe5bfe133763a"
-          }
-        },
-        {
-          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "id": "top.theillusivec4:curios:5.9.0+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 398066,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+            "size": 382848,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/curios-forge-5.9.0+1.20.1.jar",
+            "MD5": "c9ffab8c8b77171281588dc8c64868c9"
           }
         },
         {
-          "id": "io.github.bennyboy1695:disablestructures:1.20.1-1.0.1@jar",
-          "name": "DisableStructures",
+          "id": "noppes.npcs:customnpcs:1.20.1.20260227@jar",
+          "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9912,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/DisableStructures-1.20.1-1.0.1.jar",
-            "MD5": "fe060e6798cff2a8069d37cf5d906d83"
+            "size": 10846030,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
+            "MD5": "e8c891960a4b5ab828762d5a23f93659"
+          }
+        },
+        {
+          "id": "net.brnbrd:delightful:3.5.2@jar",
+          "name": "Delightful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1131485,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Delightful-1.20.1-3.5.2.jar",
+            "MD5": "4880d798fd1e0098ca08c1cd873d1aac"
           }
         },
         {
@@ -648,18 +618,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8762342,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
             "MD5": "6ac48d0cf2ce763824f96f6d26963219"
-          }
-        },
-        {
-          "id": "com.dynview:dynview:2.3@jar",
-          "name": "Dynamic view distance",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22525,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/dynview-1.20.1-4.0.jar",
-            "MD5": "7efca5128021afe6101defb13e5ae486"
           }
         },
         {
@@ -668,68 +628,38 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
-          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.10@jar",
+          "id": "net.uknownymous:overhauledstructures:1.19~1.20.1@jar",
+          "name": "Epic Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5144310,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Epic%20Dungeons-0.1.04-Forge-1.19-1.20.1.jar",
+            "MD5": "ddcb561fc57e81ded04abad4c4b27d83"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2955928,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.10.jar",
-            "MD5": "c429c87877d1a843209153a092e08c3f"
+            "size": 2915349,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
+            "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
           }
         },
         {
-          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
-          "name": "Fastload-Reforged",
+          "id": "net.blay09.mods:forgivingvoid:10.0.0@jar",
+          "name": "Forgiving Void",
           "type": "ForgeMod",
           "artifact": {
-            "size": 66989,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
-            "MD5": "3266e638032dc9b957bf1e7372671c05"
-          }
-        },
-        {
-          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
-            "MD5": "f52f538207a4829d7060550092ce2383"
-          }
-        },
-        {
-          "id": "cy.jdkdigital:finitewater:1.20.1-0.1.2@jar",
-          "name": "Finite Water",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5656,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/finitewater-1.20.1-0.1.2.jar",
-            "MD5": "fece501e944f55804a6e03f2594098ac"
-          }
-        },
-        {
-          "id": "com.mrcrayfish:framework:0.8.0@jar",
-          "name": "Framework",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 383868,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/framework-forge-1.20.1-0.8.0.jar",
-            "MD5": "6d9a54cd004b15028673b309243e07a2"
-          }
-        },
-        {
-          "id": "glitchcore:glitchcore:0.0.1.1@jar",
-          "name": "GlitchCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 87551,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/GlitchCore-forge-1.20.1-0.0.1.1.jar",
-            "MD5": "87d2b7104f4069d44741f58ebe1bb2bd"
+            "size": 69416,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/forgivingvoid-forge-1.20-10.0.0.jar",
+            "MD5": "a5af988df10ef868ef4fe5348786fef5"
           }
         },
         {
@@ -738,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7315387,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.7.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/GT-DonationAPI-forge-1.20.1-2.0.7.jar",
             "MD5": "bc39bd82a1d4ea103ed48f7f7a93d789"
           }
         },
@@ -748,28 +678,58 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95018,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
             "MD5": "11ad6c455f71bbedecbe1e26659d1e45"
           }
         },
         {
-          "id": "snownee.jade:jade:11.12.3+forge@jar",
-          "name": "Jade",
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
+          "name": "Handcrafted",
           "type": "ForgeMod",
           "artifact": {
-            "size": 547769,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.12.3.jar",
-            "MD5": "253456fec5b1bd598a7abc12abfee0f5"
+            "size": 7111059,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
           }
         },
         {
-          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.10@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1455686,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/InventoryProfilesNext-forge-1.20-1.10.10.jar",
+            "MD5": "7514d6a359b6315f25c523d63de91708"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.7.1@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 523256,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Jade-1.20.1-forge-11.7.1.jar",
+            "MD5": "7ef11e0e67625f29c73d226bc6d94a7a"
+          }
+        },
+        {
+          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
+          "name": "Jade Addons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58529,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.2.jar",
+            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.3.0.4@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1385600,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.112.jar",
-            "MD5": "c899d5b549ace1e9fa46700c778c3809"
+            "size": 1127828,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
+            "MD5": "8f2c0bbb8f691be76f0b44c1d61d94e7"
           }
         },
         {
@@ -778,28 +738,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
-          }
-        },
-        {
-          "id": "snownee.kiwi:kiwi:11.10.1+forge@jar",
-          "name": "Kiwi Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1677051,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Kiwi-1.20.1-Forge-11.10.1.jar",
-            "MD5": "731b7999bae7362aa155a8fe50ff61cf"
-          }
-        },
-        {
-          "id": "de.keksuccino:konkrete:1.8.0@jar",
-          "name": "Konkrete",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 625185,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-            "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
         {
@@ -808,58 +748,178 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 316542,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
             "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
           }
         },
         {
-          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
-          "name": "Library ferret",
+          "id": "generated.forgemod:kotlinforforge:4.10.0-all@jar",
+          "name": "Kotlinforforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 190536,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
-            "MD5": "68ba05aaf09f053934537af691e959df"
+            "size": 7778600,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/kotlinforforge-4.10.0-all.jar",
+            "MD5": "66104f85db917822d99311bcb6c71f97"
           }
         },
         {
-          "id": "generated.forgemod:minecraft_server_v3.5.7:0.0.0@jar",
-          "name": "Minecraft_server_v3.5.7",
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
+          "name": "KubeJS",
           "type": "ForgeMod",
           "artifact": {
-            "size": 117785,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/minecraft_server_v3.5.7.jar",
-            "MD5": "588bd050859302e10de070e51fcbf63b"
+            "size": 1654660,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.26.2+mc1.20.1@jar",
-          "name": "ModernFix",
+          "id": "de.cristelknight:doapi:1.2.9@jar",
+          "name": "[Let's Do] API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 826829,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
-            "MD5": "61332114c9c317080faaf35f8183d67b"
+            "size": 402297,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/letsdo-API-forge-1.2.9-forge.jar",
+            "MD5": "6dedbca83ab0e01ae8c3852be874736e"
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.28@jar",
+          "id": "satisfy.bakery:bakery:1.1.8@jar",
+          "name": "[Let's Do] Bakery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1751775,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/letsdo-bakery-forge-1.1.8.jar",
+            "MD5": "e7a43ee1cc31f333266c16026f7b5970"
+          }
+        },
+        {
+          "id": "satisfy.candlelight:candlelight:1.2.10@jar",
+          "name": "[Let's Do] Candlelight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2607634,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/letsdo-candlelight-forge-1.2.10.jar",
+            "MD5": "b58ccfc30734612c86633b48fcfc6a7b"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693301,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.1.1@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492306,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/mcw-fences-1.1.1-mc1.20.1forge.jar",
+            "MD5": "c3032fe68ddbc13695bc47c8a9d9beca"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.2@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1779239,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/mcw-furniture-3.2.2-mc1.20.1forge.jar",
+            "MD5": "2a2f918848f0da3a08e181ae593f047a"
+          }
+        },
+        {
+          "id": "com.finndog:mes:1.3.1-1.20-forge@jar",
+          "name": "Moog's End Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397340,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/mes-1.3.1-1.20-forge.jar",
+            "MD5": "52e96e313312a0cc7c96a0e610744d36"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorart:moa_decor_art:1.20.1@jar",
+          "name": "MOA DECOR: ART",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1067543,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20ART%201.20.1.jar",
+            "MD5": "0d5ee502c177ed59811d0f1fa3c4fe91"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorbath:moa_decor_bath:1.20.1@jar",
+          "name": "MOA DECOR: BATH",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1196202,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20BATH%201.20.1.jar",
+            "MD5": "a771a2ee8a411270e835927ddb4bdfc3"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorcookery:moa_decor_cookery:1.20.1@jar",
+          "name": "MOA DECOR: COOKERY",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1537747,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20COOKERY%201.20.2.jar",
+            "MD5": "57c355d9051835919d1d3be1148a7ad5"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorgarden:moa_decor_garden_:1.20.1@jar",
+          "name": "MOA DECOR: GARDEN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1206143,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20GARDEN%201.20.1.jar",
+            "MD5": "57f53d1ceb7b830bcc9c7cee0bcc3a47"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorholidays:moa_decor_holidays:1.20.1@jar",
+          "name": "MOA DECOR: HOLIDAYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1189873,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20HOLIDAYS%201.20.1.jar",
+            "MD5": "01a07c08f01af2809356d3a128eb154c"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecortoys:moa_decor_toys:1.20.1@jar",
+          "name": "MOA DECOR: TOYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119976,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
+            "MD5": "a491d0259da96000cf70d0b0c22f6d87"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.12.6@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1393921,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/moonlight-1.20-2.16.28-forge.jar",
-            "MD5": "16b9f89e07b2c567c610881f784cf6d1"
+            "size": 1198980,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/moonlight-1.20-2.12.6-forge.jar",
+            "MD5": "556e301bd50ff507fcc52d80b34549fa"
           }
         },
         {
-          "id": "com.obscuria.obscureapi:obscure_api:18@jar",
-          "name": "Obscure API",
+          "id": "yalter.mousetweaks:mousetweaks:2.25@jar",
+          "name": "Mouse Tweaks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1128392,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/obscure_api-18.jar",
-            "MD5": "2ebabd6dd8f9e8dad64b0c5cbc187f8d"
+            "size": 76146,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20-2.25.jar",
+            "MD5": "b6e9dc4ef5626d20cb14846c63be211f"
           }
         },
         {
@@ -868,128 +928,88 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
-          "id": "net.darkhax:openloader:19.0.4@jar",
-          "name": "OpenLoader",
+          "id": "dev.shadowsoffire:placebo:8.6.1@jar",
+          "name": "Placebo",
           "type": "ForgeMod",
           "artifact": {
-            "size": 23938,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/OpenLoader-Forge-1.20.1-19.0.4.jar",
-            "MD5": "e1115843c44e491f45e0b6890c5776cb"
+            "size": 285463,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Placebo-1.20.1-8.6.1.jar",
+            "MD5": "99019d3495ebaaf5805eb7aba8de9371"
           }
         },
         {
-          "id": "dev.tonimatas:packetfixer:3.3.1@jar",
-          "name": "PacketFixer",
+          "id": "tech.thatgravyboat:playdate:2.0.0@jar",
+          "name": "Playdate",
           "type": "ForgeMod",
           "artifact": {
-            "size": 188673,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
-            "MD5": "da8492dc74813d847ba128c23253c376"
+            "size": 834486,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/playdate-2.0.0-forge.jar",
+            "MD5": "a928a8d66dcf8fd2b1372a95ca4482e0"
           }
         },
         {
-          "id": "com.alcatrazescapee:primalwinter:5.0.0@jar",
-          "name": "Primal Winter",
+          "id": "com.illusivesoulworks:polymorph:0.49.3+1.20.1@jar",
+          "name": "Polymorph",
           "type": "ForgeMod",
           "artifact": {
-            "size": 489443,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/primalwinter-forge-1.20-5.0.0.jar",
-            "MD5": "68c20808eaaa713991587562883d791f"
+            "size": 298475,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/polymorph-forge-0.49.3+1.20.1.jar",
+            "MD5": "849131314d74ca50f09bc94811b930f6"
           }
         },
         {
-          "id": "com.illusivesoulworks:radiantgear:2.2.0+1.20.1@jar",
-          "name": "Radiant Gear",
+          "id": "com.telepathicgrunt.repurposedstructures:repurposed_structures:7.1.13+1.20.1-forge@jar",
+          "name": "Repurposed Structures",
           "type": "ForgeMod",
           "artifact": {
-            "size": 47170,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/radiantgear-forge-2.2.0+1.20.1.jar",
-            "MD5": "19cb99849c8fe9856530b8173240b90a"
+            "size": 8131799,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/repurposed_structures-7.1.13+1.20.1-forge.jar",
+            "MD5": "710e6002bcc64b478c1690f3f10a704e"
           }
         },
         {
-          "id": "me.shedaniel.rareice:rare_ice:ice-0.6.0@jar",
-          "name": "Rare Ice",
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.3-build.10@jar",
+          "name": "Rhino",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43398,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/rare-ice-0.6.0.jar",
-            "MD5": "0dfb81ba2ab6e9ec61f6bad98a360c13"
+            "size": 1798244,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "MD5": "59387620b0ef6becbff02c7c1636ad3e"
           }
         },
         {
-          "id": "io.github.marcus8448:snowy:2.2.0@jar",
-          "name": "Snowy",
+          "id": "sereneseasons.core:sereneseasons:9.0.0.46@jar",
+          "name": "Serene Seasons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16900,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/snowy-forge-2.2.1+1.20.1.jar",
-            "MD5": "ae959a3470377d24f0fa8414ce857398"
+            "size": 148149,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
+            "MD5": "30faa2569ac8c43e943d277755378b63"
           }
         },
         {
-          "id": "net.mehvahdjukaar:snowyspirit:1.20-3.0.10@jar",
-          "name": "Snowy Spirit",
+          "id": "fonnymunkey.simplehats:simplehats:1.20.1-0.2.4@jar",
+          "name": "SimpleHats",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5378063,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/snowyspirit-1.20-3.0.10.jar",
-            "MD5": "278b187a0841322e835353cf34c93d1d"
+            "size": 1219422,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/simplehats-forge-1.20.1-0.2.4.jar",
+            "MD5": "3b9f824fe76aca2dd57257e82a7942d6"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.3.5.1505@jar",
-          "name": "Sophisticated Core",
+          "id": "terrablender.core:terrablender:3.0.1.4@jar",
+          "name": "TerraBlender",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1418775,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.3.5.1505.jar",
-            "MD5": "bf4df2216654ada4949947dd038d10ee"
-          }
-        },
-        {
-          "id": "me.lucko:spark:1.10.53@jar",
-          "name": "Spark",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3114590,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
-            "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
-          }
-        },
-        {
-          "id": "generated.forgemod:structory:1.3.5@jar",
-          "name": "Structory",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1286462,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Structory_1.20.x_v1.3.5.jar",
-            "MD5": "be42d17e7e1ea2da3b59701f6dd21088"
-          }
-        },
-        {
-          "id": "net.darkhax:thirstybottles:7.0.2@jar",
-          "name": "ThirstyBottles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8773,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/ThirstyBottles-Forge-1.20.1-7.0.2.jar",
-            "MD5": "5910348fc135b199336aacb9e8b88029"
-          }
-        },
-        {
-          "id": "de.cristelknight999:t_and_t:1.10.2@jar",
-          "name": "Towns and Towers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2864275,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
-            "MD5": "237a2186d2482856f67c638c06489fb8"
+            "size": 107369,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.4.jar",
+            "MD5": "e3adff8ff2860db648de0e315802a592"
           }
         },
         {
@@ -998,8 +1018,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1288835,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.46.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.46.jar",
             "MD5": "93bf13238a956976c68ae862ea24c949"
+          }
+        },
+        {
+          "id": "ht.treechop:treechop:0.18.8@jar",
+          "name": "HT's TreeChop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517162,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/TreeChop-1.20.1-forge-0.19.0.jar",
+            "MD5": "cb12be5d9e1ac3d3ca43b46436c8fc1e"
           }
         },
         {
@@ -1008,28 +1038,58 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4889296,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.6.jar",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.6.jar",
             "MD5": "11832e7cf51d8b058ddde5811188835c"
           }
         },
         {
-          "id": "net.mcreator.warbrode:wardrobe:1.0.3.1@jar",
-          "name": "Wardrobe",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 873200,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/wardrobe-1.0.3.1-forge-1.20.1.jar",
-            "MD5": "d718d3921d2df475c701d4e941fc5837"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
+          "id": "xaero.minimap:xaerominimap:24.0.3@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1723029,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/forgemods/required/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
-            "MD5": "2b2bfaf3a1872b83c57aaa51c73f10d9"
+            "size": 1419300,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/Xaeros_Minimap_24.0.3_Forge_1.20.jar",
+            "MD5": "7c74cd8290af3d534a384f7fd84d7e46"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.38.1@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 925118,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/XaerosWorldMap_1.38.1_Forge_1.20.jar",
+            "MD5": "f7a9da0ffebc7eeacaff03558b119c89"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 370524,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Forge-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 792381,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Forge-2.0.4@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 806650,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar",
+            "MD5": "5d980e87b0b252c8b74a36952f4bde25"
           }
         },
         {
@@ -1038,7 +1098,7 @@
           "type": "File",
           "artifact": {
             "size": 153,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/files/options.txt",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -1048,7 +1108,7 @@
           "type": "File",
           "artifact": {
             "size": 3456096,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko3-1.20.1/files/shaderpacks/ComplementaryShaders_v4.7.1.zip",
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/files/shaderpacks/ComplementaryShaders_v4.7.1.zip",
             "MD5": "8715784436e158bd0fc5321cca73eb92",
             "path": "shaderpacks/ComplementaryShaders_v4.7.1.zip"
           }
