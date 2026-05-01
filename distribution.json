@@ -833,16 +833,6 @@
           }
         },
         {
-          "id": "com.finndog:mes:1.3.1-1.20-forge@jar",
-          "name": "Moog's End Structures",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 397340,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/mes-1.3.1-1.20-forge.jar",
-            "MD5": "52e96e313312a0cc7c96a0e610744d36"
-          }
-        },
-        {
           "id": "net.mcreator.moadecorart:moa_decor_art:1.20.1@jar",
           "name": "MOA DECOR: ART",
           "type": "ForgeMod",
