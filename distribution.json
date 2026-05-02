@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "portb.biggerstacks:biggerstacks:1.20.1-1.0.5@jar",
+          "name": "Bigger Stacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 706369,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/biggerstacks-1.20.1-1.0.5-all.jar",
+            "MD5": "e05506d88388aa9ec589c839049f3cf1"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
