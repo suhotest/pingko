@@ -603,16 +603,6 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.20.1.20260227@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10846030,
-            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
-            "MD5": "e8c891960a4b5ab828762d5a23f93659"
-          }
-        },
-        {
           "id": "net.brnbrd:delightful:3.5.2@jar",
           "name": "Delightful",
           "type": "ForgeMod",
