@@ -993,6 +993,16 @@
           }
         },
         {
+          "id": "me.lucko:spark:1.10.53@jar",
+          "name": "Spark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3114590,
+            "url": "https://github.com/suhotest/pingko/raw/main/servers/pingko4-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
+            "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
+          }
+        },
+        {
           "id": "terrablender.core:terrablender:3.0.1.4@jar",
           "name": "TerraBlender",
           "type": "ForgeMod",
